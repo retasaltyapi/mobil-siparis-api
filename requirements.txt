@@ -1,2 +1,2 @@
-echo "flask==2.3.2" > requirements.txt
-echo "gunicorn==20.1.0" >> requirements.txt
+flask>=2.0.0
+gunicorn>=20.0.0
